@@ -1,0 +1,92 @@
+* {
+    box-sizing: border-box;
+    background-color: beige;
+}
+
+#cajas {
+    background-color: darkcyan;
+    text-align: center;
+    color: tomato;
+}
+
+#nombre {
+    text-align: center;
+    color: royalblue;
+}
+
+#paso01 {
+    display: block;
+    width: 15%;
+    height: 80px;
+    background-color: pink;
+    border-style: solid;
+    margin-bottom: 20px;
+}
+#paso02 {
+    display: block;
+    width: 2%;
+    height: 30px;
+    background-color: yellow;
+    border-style: solid;
+    margin-bottom: 20px;
+}
+#paso03 {
+    display: block;
+    width: 20%;
+    height: 160px;
+    background-color: greenyellow;
+    border-style: solid;
+}
+
+#paso04 {
+    display: inline-block;
+    width: 2%;
+    height: 30px;
+    background-color: yellow;
+    border-style: solid;
+    margin-right: 20px;
+}
+
+#paso05 {
+    display: inline-block;
+    width: 15%;
+    height: 80px;
+    background-color: pink;
+    border-style: solid;
+    margin-right: 20px;
+}
+
+#paso06 {
+    display: inline-block;
+    width: 20%;
+    height: 160px;
+    background-color: greenyellow;
+    border-style: solid;
+}
+
+#paso07 {
+    display: inline-grid;
+    align-content: center;
+    padding: 20px;
+    width: 15%;
+    height: 160px;
+    background-color: greenyellow;
+    border-style: solid;
+}
+
+#paso08 {
+    display: inline-grid;
+    align-content: center;
+    padding: 20px;
+    width: 100%;
+    height: 100px;
+    background-color: pink;
+    border-style: solid;
+}
+
+#paso09 {
+    width: 20%;
+    height: 50px;
+    background-color: yellow;
+    border-style: solid;
+}

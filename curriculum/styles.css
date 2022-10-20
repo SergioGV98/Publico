@@ -1,0 +1,73 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Trebuchet MS', sans-serif;
+    color: white;
+}
+mark {
+    background-color: #FFC77D;
+    color: black;
+  }
+#tittle {
+    color:#FF0724; 
+    text-align:center; 
+    background-color:#ECF6EC; 
+    height:15%; 
+    width:100%; 
+    font-size: 2vw;
+}
+#resumen {
+    font-size: 2vw;
+    color: #F1AD00;
+    margin: 3vw 44vw;
+}
+#textin {
+    margin: 4vw 5vw 5vw 38vw;
+  }
+#perfil {
+    display: block;
+    width: 20%;
+    margin: -16vw 1vw -5vw 10vw;
+}
+#estudios {
+    width: 25%;
+    height: 8vw;
+    margin: 8vw 1vw 2vw 10vw;
+    background-color: #F1AD00;
+}
+#estudiostittle{
+    color: #2AB61B;
+}
+#datos {
+    width: 25%;
+    height: 8vw;
+    margin: -10vw 0vw 45vw 43vw;
+    background-color: #F1AD00;
+}
+#datostittle {
+    color: #2AB61B;
+}
+#experiencia{
+    width: 25%;
+    height: 8vw;
+    margin: -47vw 0vw 10vw 72vw;
+    background-color: #F1AD00;
+}
+#experienciatittle {
+    color: #2AB61B;
+}
+#programas {
+    width: 25%;
+    height: 12vw;
+    margin: -74vw 10vw 56vw 72vw;
+    background-color: #F1AD00;
+}
+#programastittle {
+    color: #2AB61B;
+}
+#linea {
+    border-top: 5px solid red;
+    margin: -4vw 2vw 2vw;
+}
+#footer {
+    margin: 1vw 0vw 0vw 43vw;
+}
