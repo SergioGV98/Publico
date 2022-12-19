@@ -1,0 +1,39 @@
+#body {
+    background-color: aliceblue;
+    box-sizing: border-box;
+}
+
+#indice {
+    text-align: center;
+    background-color: aquamarine;
+    color: tomato;
+}
+
+#nombre {
+    text-align: center;
+    color: blue;
+}
+
+#curriculum {
+    text-align: left;
+    color: blueviolet;
+    margin: 2vw 12vw 1vw;
+}
+
+#cajas {
+    text-align: center;
+    color: blueviolet;
+    margin: -3vw 3vw 1vw;
+}
+
+#img2 {
+    width: 20vw;
+    height: 20vw;
+    margin: 1vw 40vw;
+}
+
+#img3 {
+    width: 20vw;
+    height: 20vw;
+    margin: -30vw 6vw 2vw;
+}
